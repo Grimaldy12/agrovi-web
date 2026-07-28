@@ -68,7 +68,7 @@ export default function RootLayout({
             width={1000}
             height={1000}
             className="h-[80vh] w-[80vh] max-w-none object-contain"
-            style={{ opacity: 0.06, filter: "grayscale(1)", transform: "scale(1.25)" }}
+            style={{ opacity: 0.09, transform: "scale(1.25)" }}
           />
         </div>
         {children}
