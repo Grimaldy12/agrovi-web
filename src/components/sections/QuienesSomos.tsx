@@ -6,8 +6,8 @@ export function QuienesSomos() {
       <div className="grid gap-12 lg:grid-cols-2 lg:items-center lg:gap-16">
         <div className="relative order-2 aspect-[4/5] overflow-hidden rounded-2xl lg:order-1">
           <Image
-            src="/images/campo-operaciones.jpg"
-            alt="Recorrido de supervisión en los campos de cultivo de AgroVi"
+            src="/images/melon-brote.jpg"
+            alt="Melón en sus primeras etapas de crecimiento en la planta"
             fill
             className="object-cover"
             sizes="(min-width: 1024px) 40vw, 100vw"

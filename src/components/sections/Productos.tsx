@@ -35,7 +35,7 @@ export function Productos() {
           Lo que exportamos
         </span>
         <h2 className="mt-3 font-heading text-3xl font-semibold text-primary sm:text-4xl">
-          Del cultivo al contenedor
+          Del productor al consumidor
         </h2>
         <p className="mt-4 leading-relaxed text-foreground/80">
           Cada proceso está pensado para que la fruta panameña llegue en las

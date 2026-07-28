@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import { Fraunces, Work_Sans } from "next/font/google";
 import "./globals.css";
 
@@ -55,7 +56,23 @@ export default function RootLayout({
       lang="es"
       className={`${fraunces.variable} ${workSans.variable} h-full antialiased`}
     >
-      <body className="min-h-full flex flex-col">{children}</body>
+      <body className="min-h-full flex flex-col">
+        <div
+          aria-hidden="true"
+          className="pointer-events-none fixed inset-0 flex items-center justify-center overflow-hidden select-none"
+          style={{ zIndex: -1 }}
+        >
+          <Image
+            src="/images/logo.jpg"
+            alt=""
+            width={1000}
+            height={1000}
+            className="h-[80vh] w-[80vh] max-w-none object-contain"
+            style={{ opacity: 0.06, filter: "grayscale(1)", transform: "scale(1.25)" }}
+          />
+        </div>
+        {children}
+      </body>
     </html>
   );
 }

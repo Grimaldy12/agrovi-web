@@ -21,6 +21,21 @@ const PHOTOS = [
     alt: "Camioneta de supervisión recorriendo los surcos de cultivo",
     className: "",
   },
+  {
+    src: "/images/flor-melon.jpg",
+    alt: "Flor de melón en plena floración durante el cultivo",
+    className: "",
+  },
+  {
+    src: "/images/melon-brote.jpg",
+    alt: "Melón en sus primeras etapas de crecimiento en la planta",
+    className: "",
+  },
+  {
+    src: "/images/campo-surcos.jpg",
+    alt: "Surcos de cultivo de melón vistos de cerca",
+    className: "",
+  },
 ];
 
 export function Galeria() {
