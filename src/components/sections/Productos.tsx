@@ -11,7 +11,7 @@ const ITEMS = [
     icon: PackageCheck,
     title: "Empaque y clasificación",
     description:
-      "Cada fruta se selecciona y clasifica a mano según calibre y calidad antes de salir de la finca.",
+      "Cada fruta, se selecciona y se clasifica según su calibre y calidad para garantizar un mejor producto.",
   },
   {
     icon: ShieldCheck,

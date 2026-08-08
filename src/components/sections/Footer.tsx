@@ -29,7 +29,7 @@ export function Footer() {
             </div>
             <p className="mt-4 text-sm leading-relaxed text-foreground/65">
               Empresa exportadora panameña. Cultivamos y exportamos frutas
-              agropecuarias con calidad y trazabilidad en cada etapa.
+              de la mejor calidad y trazabilidad en cada etapa.
             </p>
           </div>
 
