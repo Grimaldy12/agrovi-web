@@ -26,13 +26,17 @@ export function QuienesSomos() {
               AgroVi S.A. es una exportadora panameña especializada en el
               cultivo y procesamiento de melón dorado, operando con fincas
               propias que le permiten controlar cada fase del proceso, desde
-              la siembra hasta el empaque. Su rigurosa selección manual y sus
-              estándares de inocuidad y trazabilidad garantizan que cada
-              fruta cumpla con las exigencias de los mercados
-              internacionales. Respaldada por un equipo con amplia
-              experiencia de campo y una logística eficiente, la empresa
-              asegura entregas puntuales y productos de primera calidad en
-              cualquier destino del mundo.
+              la siembra hasta el empaque.
+            </p>
+            <p>
+              Su rigurosa selección manual y sus estándares de inocuidad y
+              trazabilidad garantizan que cada fruta cumpla con las
+              exigencias de los mercados internacionales.
+            </p>
+            <p>
+              Respaldada por un equipo con amplia experiencia de campo y una
+              logística eficiente, la empresa asegura entregas puntuales y
+              productos de primera calidad en cualquier destino del mundo.
             </p>
           </div>
         </div>

@@ -28,10 +28,10 @@ export function Hero() {
         </h1>
 
         <p className="mt-6 max-w-xl text-lg leading-relaxed text-white/80">
-          Cultivamos, procesamos y exportamos frutas agropecuarias con
-          estándares rigurosos de calidad y trazabilidad. Cada caja que sale
-          de nuestras fincas lleva el trabajo de un equipo que conoce el
-          campo panameño.
+          Cultivamos, procesamos y exportamos frutas con estándares
+          rigurosos de calidad y trazabilidad. Cada caja que sale de
+          nuestras fincas lleva el trabajo de un equipo que conoce el campo
+          panameño.
         </p>
 
         <div className="mt-10 flex flex-wrap gap-4">
