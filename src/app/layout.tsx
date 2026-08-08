@@ -16,7 +16,7 @@ const workSans = Work_Sans({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://agrovi.vercel.app"),
+  metadataBase: new URL("https://agrovipanama.com"),
   title: "AgroVi S.A. | Empresa Exportadora de Panamá",
   description:
     "AgroVi S.A. cultiva, procesa y exporta frutas agropecuarias de Panamá con estándares de calidad, trazabilidad e inocuidad alimentaria.",
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     title: "AgroVi S.A. | Empresa Exportadora de Panamá",
     description:
       "Cultivamos y exportamos frutas agropecuarias de Panamá al mundo, con calidad y trazabilidad en cada etapa.",
-    url: "https://agrovi.vercel.app",
+    url: "https://agrovipanama.com",
     siteName: "AgroVi S.A.",
     locale: "es_PA",
     type: "website",

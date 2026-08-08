@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://agrovi.vercel.app/sitemap.xml",
+    sitemap: "https://agrovipanama.com/sitemap.xml",
   };
 }
