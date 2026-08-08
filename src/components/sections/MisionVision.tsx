@@ -20,12 +20,12 @@ export function MisionVision() {
               Misión
             </h3>
             <p className="mt-4 leading-relaxed text-foreground/80">
-              En AgroVi S.A. nos dedicamos a cultivar, procesar y exportar
-              productos agropecuarios de la más alta calidad, aplicando
-              prácticas agrícolas sostenibles con rigurosos estándares de
-              calidad y trazabilidad. Nuestro propósito es llevar lo mejor
-              del campo panameño a los mercados internacionales, garantizando
-              la inocuidad alimentaria.
+              En AgroVi S.A., cultivamos, procesamos y exportamos frutas de
+              excelencia, aplicando prácticas agrícolas sostenibles y
+              rigurosos estándares de calidad y trazabilidad en cada etapa de
+              la cadena. Nuestro compromiso es llevar lo mejor del campo
+              panameño a los mercados internacionales, asegurando inocuidad
+              alimentaria y valor en cada entrega.
             </p>
           </div>
 
@@ -35,12 +35,11 @@ export function MisionVision() {
               Visión
             </h3>
             <p className="mt-4 leading-relaxed text-foreground/80">
-              Ser la empresa agroexportadora líder y de mayor prestigio en
-              Panamá, reconocida mundialmente por la calidad de nuestros
-              productos agropecuarios. Nos destacamos por la innovación en
-              procesos post-cosecha, la responsabilidad socioambiental y la
-              capacidad de abrir nuevas fronteras comerciales para el agro
-              nacional.
+              Aspiramos a consolidarnos como la empresa agroexportadora líder
+              y de mayor prestigio en Panamá, siendo reconocidos mundialmente
+              por la calidad de nuestros productos, la innovación en procesos
+              post-cosecha y nuestra responsabilidad con el entorno social y
+              ambiental, abriendo nuevos mercados con excelencia y confianza.
             </p>
           </div>
         </div>
