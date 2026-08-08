@@ -3,7 +3,7 @@ import { Sprout, PackageCheck, ShieldCheck, Ship } from "lucide-react";
 const ITEMS = [
   {
     icon: Sprout,
-    title: "Melón",
+    title: "Melón Dorado",
     description:
       "Nuestro producto principal. Cultivado en fincas propias y cosechado en el punto justo de madurez para exportación.",
   },

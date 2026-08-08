@@ -1,4 +1,4 @@
-import { Mail, MapPin } from "lucide-react";
+import { Mail, MapPin, MessageCircle } from "lucide-react";
 import { buttonVariants } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
 
@@ -17,13 +17,22 @@ export function Contacto() {
           sin intermediarios.
         </p>
 
-        <div className="mt-8 flex flex-col items-center justify-center gap-4 sm:flex-row">
+        <div className="mt-8 flex flex-col items-center justify-center gap-4">
           <a
-            href="mailto:agrovisa2026@gmail.com"
+            href="https://wa.me/50760300549"
+            target="_blank"
+            rel="noopener noreferrer"
             className={cn(
               buttonVariants({ size: "lg" }),
               "bg-accent text-white hover:bg-accent/90"
             )}
+          >
+            <MessageCircle className="size-4" />
+            WhatsApp: +507 6030-0549
+          </a>
+          <a
+            href="mailto:agrovisa2026@gmail.com"
+            className="inline-flex items-center gap-2 text-sm font-medium text-white/80 transition-colors hover:text-white"
           >
             <Mail className="size-4" />
             agrovisa2026@gmail.com
