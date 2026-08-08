@@ -18,6 +18,7 @@ const NAV_LINKS = [
   { href: "#quienes-somos", label: "Quiénes somos" },
   { href: "#mision-vision", label: "Misión y visión" },
   { href: "#productos", label: "Lo que exportamos" },
+  { href: "#empaque", label: "Empaque" },
   { href: "#galeria", label: "Galería" },
   { href: "#contacto", label: "Contacto" },
 ];
