@@ -19,7 +19,7 @@ export function Contacto() {
 
         <div className="mt-8 flex flex-col items-center justify-center gap-4">
           <a
-            href="https://wa.me/50760300549"
+            href="https://wa.me/50763300549"
             target="_blank"
             rel="noopener noreferrer"
             className={cn(
@@ -28,7 +28,7 @@ export function Contacto() {
             )}
           >
             <MessageCircle className="size-4" />
-            WhatsApp: +507 6030-0549
+            WhatsApp: +507 6330-0549
           </a>
           <a
             href="mailto:agrovisa2026@gmail.com"
